@@ -1,0 +1,1 @@
+cp -R .editorconfig .eslintignore .gitignore .
