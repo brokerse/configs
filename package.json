@@ -1,7 +1,7 @@
 {
   "name": "@brokerse/configs",
-  "version": "0.1.1",
-  "devDependencies": {
+  "version": "0.1.2",
+  "dependencies": {
     "@typescript-eslint/eslint-plugin": "4.1.1",
     "@typescript-eslint/parser": "4.1.1",
     "eslint": "7.9.0",
