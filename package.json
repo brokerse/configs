@@ -1,6 +1,6 @@
 {
   "name": "@brokerse/configs",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "4.4.1",
     "@typescript-eslint/parser": "4.4.1",
@@ -17,7 +17,7 @@
     "eslint-plugin-react": "7.21.4",
     "eslint-plugin-standard": "4.0.1",
     "fixpack": "3.0.6",
-    "jest": "26.5.3",
+    "jest": "26.4.2",
     "lerna": "3.22.1",
     "patch-package": "6.2.2",
     "postinstall-postinstall": "2.1.0",
